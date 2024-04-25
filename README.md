@@ -1,2 +1,4 @@
-Class Activity 1
-Lab 14
+| Class Activity|      Labs     |
+| ------------- | ------------- |
+| Activity 1    |     Lab14     |
+| Content Cell  | Content Cell  |
