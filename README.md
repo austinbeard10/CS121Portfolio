@@ -1,5 +1,5 @@
-| Class Activity|      Labs     |  Projects    |
-| ------------- | ------------- | -----------  |
-| Activity 1    |     Lab14     |  Project 1   |
-| ------------- | ------------  |  Project 2   |
-|  -----------  |  ----------   |  Project 3   |
+| Class Activity     |      Labs      |        Projects        |
+| ------------------ | -------------- | --------------------   |
+| Activity 1: Scanner| Lab14: Sorting |  Project 1: Char Battle|
+| ------------------ | -------------  |  Project 2: Test Score |
+|  ----------------  |  -----------   |  Project 3: Bank App   |
